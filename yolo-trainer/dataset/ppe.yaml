@@ -1,0 +1,9 @@
+path: .
+train: dataset/images/train
+val: dataset/images/val
+
+nc: 3
+names:
+  0: safety_vest
+  1: safety_hat
+  2: person
